@@ -1,0 +1,23 @@
+body {
+	background-color: #297a29;
+}
+
+
+.propertyid {
+	background-color: red;
+	margin: 40 auto;
+	width: 700;
+	
+	}
+
+.color {
+	background-color: yellow;
+
+}
+
+.propertyid div {
+	display: inline-block;
+	text-align: center;
+	width: 25%;
+	height: 30px;
+}
